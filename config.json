@@ -230,6 +230,18 @@
       ]
     },
     {
+      "uuid": "9f89c93c-4e1b-11e8-9c2d-fa7ae01bbebc",
+      "slug": "spiral-matrix",
+      "core": false,
+      "unlocked_by": null,
+      "difficulty": 4,
+      "topics": [
+        "loop",
+        "vectors",
+        "state machine"
+      ]
+    },
+    {
       "uuid": "4dc9b165-792a-4438-be80-df9aab6f6a9c",
       "slug": "run-length-encoding",
       "core": false,
